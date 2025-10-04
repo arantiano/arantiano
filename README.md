@@ -1,4 +1,4 @@
-### Hi I'm Arantiano 👋
+# Hi I'm Arantiano 👋
 
 ![Arantiano](github-header-banner.png)
 
